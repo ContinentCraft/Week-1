@@ -1,0 +1,41 @@
+html{
+    background-color:rgb(120, 200, 120);
+}
+h1{
+    font-family:Alegreya Sans;
+    font-size:64px;
+    text-align:center;
+}
+h2{
+    font-family:Alegreya Sans;
+    text-align:center;
+}
+p{
+    font-family:Alegreya Sans;
+    text-align:left;
+}
+/* Links */
+.l0{
+    background-color:rgb(60, 120, 60);
+    float:none;
+    position:absolute;
+    font-family:Alegreya Sans;
+    font-size:32px;
+    top:18%;
+}
+#a0{
+    left:35%;
+}
+#a1{
+    left:45%;
+}
+#a2{
+    left:55%;
+}
+/* Images */
+#img0{
+    float:none;
+    position:relative;
+    top:10px;
+    left:42.5%;
+}
